@@ -1,0 +1,29 @@
+8/11/2022 2:21:17 PM:::Test started
+8/11/2022 2:23:06 PM:::Test started
+8/11/2022 2:23:20 PM:::File displayed message shown on the page. 
+8/11/2022 2:23:20 PM:::Test passed
+8/11/2022 2:23:20 PM:::Test ended.
+8/11/2022 2:27:03 PM:::INFORMATION : Test started
+8/11/2022 2:27:12 PM:::INFORMATION : File displayed message shown on the page. 
+8/11/2022 2:27:12 PM:::INFORMATION : Test passed
+8/11/2022 2:27:13 PM:::Test ended.
+8/11/2022 2:31:20 PM:::INFORMATION : Test started
+8/11/2022 2:31:30 PM:::EXCEPTION: no such element: Unable to locate element: {"method":"css selector","selector":"#file\-submit1"}
+  (Session info: chrome=107.0.5304.88)
+8/11/2022 2:31:31 PM:::Test ended.
+8/11/2022 3:06:42 PM:::INFORMATION : Test started
+8/11/2022 3:06:51 PM:::EXCEPTION: no such element: Unable to locate element: {"method":"css selector","selector":"#file\-upload1"}
+  (Session info: chrome=107.0.5304.88)
+8/11/2022 3:06:51 PM:::Test ended.
+8/11/2022 3:07:44 PM:::INFORMATION : Test started
+8/11/2022 3:07:51 PM:::INFORMATION : File displayed message shown on the page. 
+8/11/2022 3:07:51 PM:::INFORMATION : Test passed
+8/11/2022 3:07:51 PM:::Test ended.
+8/11/2022 3:41:06 PM:::INFORMATION : Test started
+8/11/2022 3:41:13 PM:::INFORMATION : File displayed message shown on the page. 
+8/11/2022 3:41:13 PM:::INFORMATION : Test passed
+8/11/2022 3:41:14 PM:::Test ended.
+8/11/2022 3:47:04 PM:::INFORMATION : Test started
+8/11/2022 3:47:12 PM:::INFORMATION : File displayed message shown on the page. 
+8/11/2022 3:47:12 PM:::INFORMATION : Test passed
+8/11/2022 3:47:12 PM:::Test ended.
